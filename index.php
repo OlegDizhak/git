@@ -1,5 +1,7 @@
 <?php
-
+/**
+ * Class description
+ **/
 class Application
 {
     public function init()
