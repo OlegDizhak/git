@@ -1,6 +1,6 @@
 <?php
 /**
- * Class description
+ * Class description for application class
  **/
 class Application
 {
